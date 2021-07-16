@@ -9,7 +9,7 @@
 
 ## Task 2 - MVP 
 ### HTML 
-* Semantic HTML is used throughout the site - please use most semantic element possible
+* Semantic HTML is used throughout the site - please use most semantic elements if possible
 * all alt tags are filled out for accessibility
 * in your navigation, home should link to the top of the page, about should link to the about section, plants should link to the shop section and contact should link to the contact section. 
 
